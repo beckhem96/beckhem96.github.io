@@ -14,9 +14,10 @@ GEM
       faraday-net_http (~> 2.0)
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (2.0.3)
-    faraday-retry (1.0.3)
+    faraday-retry (2.0.0)
+      faraday (~> 2.0)
     ffi (1.15.5)
-    ffi (1.15.5-x64-mingw-ucrt)
+    ffi (1.15.5-x64-unknown)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
     i18n (1.10.0)
@@ -121,7 +122,7 @@ GEM
 
 PLATFORMS
   universal-darwin-21
-  x64-mingw-ucrt
+  x64-unknown
   x86_64-linux
 
 DEPENDENCIES
