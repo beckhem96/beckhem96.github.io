@@ -1,10 +1,13 @@
 ---
-
 layout: post
 title:  React Query, React Hook Form
-date:   2023-01-24 18:59:27 +0900
+image: 
+  path: /assets/img/blog/jeremy-bishop@0,5x.jpg
+description: >
+  Version 9 is the most complete version of Hydejack yet.
+  Modernized design, big headlines, and big new features.
 categories: React
-
+sitemap: false
 ---
 
 ## React Query
